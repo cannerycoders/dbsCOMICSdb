@@ -1,4 +1,4 @@
-# dbsCOMICSdb Collector
+# db'sCOMICSdb Collector
 
 ## For Comic Collectors
 
@@ -14,3 +14,8 @@ are missing while in the warm, bunker-like atmosphere of your friendly
 neighborhood comic store.
 
 For more information, please visit https://dbscomics.com.
+
+## What's Here?
+
+This repo contains files that are used to build in-app menus with
+links to public collections and popular internet comics resources.
