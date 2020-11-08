@@ -1,0 +1,48 @@
+{
+    "title": "Online Comics Resources",
+    "links": 
+    [
+        {
+            "title": "Marvel",
+            "desc": "'nuff said",
+            "type": "url",
+            "url": "https://marvel.com"
+        },
+        {
+            "title": "DC",
+            "desc": "Shazam!",
+            "type": "url",
+            "url": "https://dccomics.com"
+        },
+        {
+            "title": "Dark Horse",
+            "desc": "Builds Characters",
+            "type": "url",
+            "url": "https://darkhorse.com"
+        },
+        {
+            "title": "Image",
+            "desc": "",
+            "type": "url",
+            "url": "https://imagecomics.com/comics/new-releases"
+        },
+        {
+            "title": "IDW",
+            "desc": "",
+            "type": "url",
+            "url": "https://www.idwpublishing.com/"
+        },
+        {
+            "title": "Fantagraphics",
+            "desc": "Publisher of the World's Greatest Cartoonists",
+            "type": "url",
+            "url": "https://www.fantagraphics.com/collections/new-releases"
+        },
+        {
+            "title": "PREVIEWSworld",
+            "desc": "The largest comics distributor in the US.",
+            "type": "url",
+            "url": "https://previewsworld.com/NewReleases"
+        }
+    ]
+}
