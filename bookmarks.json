@@ -6,19 +6,19 @@
             "title": "Marvel",
             "desc": "'nuff said",
             "type": "url",
-            "url": "https://marvel.com"
+            "url": "https://www.marvel.com/comics/calendar"
         },
         {
             "title": "DC",
             "desc": "Shazam!",
             "type": "url",
-            "url": "https://www.dccomics.com"
+            "url": "https://www.dccomics.com/comics"
         },
         {
             "title": "Dark Horse",
             "desc": "Builds Characters",
             "type": "url",
-            "url": "https://www.darkhorse.com"
+            "url": "https://www.darkhorse.com/Comics/New-Releases"
         },
         {
             "title": "Image",
