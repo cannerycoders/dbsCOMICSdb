@@ -1,0 +1,21 @@
+{
+    "title": "Online db'sCOMICSdb Collections",
+    "collections": 
+    [
+        {
+            "id": "db/primary",
+            "desc": "db's primary collection",
+            "url": "https://dbscomics.com/collector/dbPrimary.zip"
+        },
+        {
+            "id": "Seb/primary",
+            "desc": "Seb's primary collection",
+            "url": "https://dbscomics.com/collector/SebPrimary.zip"
+        },
+        {
+            "id": "Sky/primary",
+            "desc": "Sky's primary collection",
+            "url": "https://dbscomics.com/collector/SkyPrimary.zip"
+        }
+    ]
+}
