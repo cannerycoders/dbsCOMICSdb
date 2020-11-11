@@ -5,17 +5,17 @@
         {
             "id": "db/primary",
             "desc": "db's primary collection",
-            "url": "https://dbscomics.com/collector/dbPrimary.zip"
+            "url": "https://raw.githubusercontent.com/cannerycoders/dbsCOMICSdb/master/dbPrimary.zip"
         },
         {
             "id": "Seb/primary",
             "desc": "Seb's primary collection",
-            "url": "https://dbscomics.com/collector/SebPrimary.zip"
+            "url": "https://raw.githubusercontent.com/cannerycoders/dbsCOMICSdb/master/SebPrimary.zip"
         },
         {
             "id": "Sky/primary",
             "desc": "Sky's primary collection",
-            "url": "https://dbscomics.com/collector/SkyPrimary.zip"
+            "url": "https://raw.githubusercontent.com/cannerycoders/dbsCOMICSdb/master/SkyPrimary.zip"
         }
     ]
 }
