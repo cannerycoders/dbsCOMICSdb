@@ -4,16 +4,19 @@
     [
         {
             "id": "db/primary",
+            "size": 2650,
             "desc": "db's primary collection",
             "url": "https://raw.githubusercontent.com/cannerycoders/dbsCOMICSdb/master/dbPrimary.zip"
         },
         {
             "id": "Seb/primary",
+            "size": 300,
             "desc": "Seb's primary collection",
             "url": "https://raw.githubusercontent.com/cannerycoders/dbsCOMICSdb/master/SebPrimary.zip"
         },
         {
             "id": "Sky/primary",
+            "size": 144,
             "desc": "Sky's primary collection",
             "url": "https://raw.githubusercontent.com/cannerycoders/dbsCOMICSdb/master/SkyPrimary.zip"
         }
